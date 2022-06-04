@@ -1,0 +1,20 @@
+body{
+    background-color :#e5f2ee;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width:8px;
+    border-color :#948e8d;
+    /* border-style: dotted none none; */
+    width: 3%;
+}
+img{
+    height: 300px;
+}
+h3,h2,h1{
+    color: #0e6e6e;
+}
+link{
+    color: beige;
+}
